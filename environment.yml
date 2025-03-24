@@ -1,0 +1,14 @@
+name: ocr-menu-app
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - streamlit
+  - pandas
+  - requests
+  - dspy
+  - tqdm
+  - pillow
+  - transformers
+  - torch
