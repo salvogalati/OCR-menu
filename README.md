@@ -120,3 +120,5 @@ deep_seek_token = "your_deepseek_token_here"
 These tokens are used to call external language models like LLama 3 or DeepSeek API.
 
 > 💡 In future versions, these may be loaded from a `.env` file.
+
+---
